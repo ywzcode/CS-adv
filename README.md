@@ -12,5 +12,5 @@ Then modify the data path in line 211 in train_image_officehome_cs.py.
 sh run_office_home.sh  will train the Art to Clipart task by default. 
 
 
-Our code is adapted from [CGDM]([https://github.com/lijin118/CGDM]) and [MCD_DA]([https://github.com/mil-tokyo/MCD_DA]).
+Our code is adapted from [CGDM](https://github.com/lijin118/CGDM) and [MCD_DA]([https://github.com/mil-tokyo/MCD_DA]).
 
