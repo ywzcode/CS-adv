@@ -1,6 +1,6 @@
 # Domain Adaptation with Cauchy-Schwarz Divergence
 ---
-## Demo code for, Domain Adaptation with Cauchy-Schwarz Divergence, UAI2024. 
+### Demo code for, Domain Adaptation with Cauchy-Schwarz Divergence, UAI2024. 
 
 The core part of CS divergence is in CSutils.py.
 
