@@ -1,6 +1,6 @@
-# CS-adv
-
-## Demo code for training our CS-adv on Office-Home
+# Domain Adaptation with Cauchy-Schwarz Divergence
+---
+## Demo code for, Domain Adaptation with Cauchy-Schwarz Divergence, UAI2024. 
 
 The core part of CS divergence is in CSutils.py.
 
